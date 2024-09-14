@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Matthias+.+A+fast+learning+developer.;Familiar+with+web,+starting+with+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Matthias+.;A+fast+learning+developer.)](https://git.io/typing-svg)
 
 <!--
 **diGiusepp3/diGiusepp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
