@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Matthias+.;A+fast+learning+developer.)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=diGiusepp3)](https://git.io/streak-stats)
+
+[![diGiuSepp3's GitHub stats](https://github-readme-stats.vercel.app/api?username=diGiusepp3)](https://github.com/diGiusepp3/github-readme-stats)
 <!--
 **diGiusepp3/diGiusepp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
