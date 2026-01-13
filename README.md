@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Matthias+.;A+fast+learning+developer.)](https://git.io/typing-svg)
 
-
-[![diGiuSepp3's GitHub stats](https://github-readme-stats.vercel.app/api?username=diGiusepp3&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/diGiusepp3/github-readme-stats)
+username=diGiusepp3&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/diGiusepp3/github-readme-stats)
 
 
 - 🔭 I’m currently working on a learning platform, an SEO tool and a hosting provider's website.
