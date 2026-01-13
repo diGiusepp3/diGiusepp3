@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Matthias+.;A+fast+learning+developer.)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=diGiusepp3)](https://git.io/streak-stats)
 
 [![diGiuSepp3's GitHub stats](https://github-readme-stats.vercel.app/api?username=diGiusepp3&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/diGiusepp3/github-readme-stats)
 
