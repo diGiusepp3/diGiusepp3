@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on a learning platform, an SEO tool and a hosting provider's website.
 - 🌱 I’m currently learning C#
-- 🤔 I’m looking for advise in software development
 - 📫 How to reach me: info@webcrafters.be
 - 😄 Pronouns: Matthias Gielen
-- ⚡ Fun fact: i dont know what i am doing at least 50% of the time. 
+- ⚡ Fun fact: i dont know what i am doing at least 50% of the time.
+- Created Webcrafters-Studio: A vibe code platform.
 
